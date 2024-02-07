@@ -51,3 +51,5 @@ dask-worker-space/
 
 # Binary files created by benchmarks
 *.npy
+
+.pybuild/
