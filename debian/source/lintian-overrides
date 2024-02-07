@@ -1,0 +1,5 @@
+python-joblib source: file-without-copyright-information
+python-joblib source: no-debian-changes
+python-joblib source: source-contains-prebuilt-windows-binary
+python-joblib source: source-is-missing
+python-joblib source: source-package-encodes-python-version
