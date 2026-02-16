@@ -1,0 +1,5 @@
+python3-joblib: broken-gz
+python3-joblib: copyright-without-copyright-notice
+python3-joblib: initial-upload-closes-no-bugs
+python3-joblib: no-manual-page
+python3-joblib: zero-byte-file-in-doc-directory
